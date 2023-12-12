@@ -1,11 +1,5 @@
 tmp/todo.txt
-<<<<<<< ours
 tmp/*
 *.xml
-||||||| base
-tmp/*
-=======
-tmp/*
 *.txt
 
->>>>>>> theirs
